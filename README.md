@@ -25,7 +25,7 @@ Following 2 images are from [Peter Ward's blog](https://blog.flowblok.id.au/2013
 
 ## Refrence
 
-*Below are most of the posts and repos I have stydied from. Thanks to the great minds!*
+*Below are most of the posts and repos I have studied from. Thanks to the great minds!*
 
 ### Posts
 https://github.com/webpro/dotfiles
