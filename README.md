@@ -7,6 +7,8 @@
 
 I have waded through some excellent posts and repos, and created my own and am still accurating great ideas.
 
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+
 
 ## Knowledge
 
