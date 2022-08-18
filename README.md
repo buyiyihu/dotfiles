@@ -1,6 +1,6 @@
 # dotfiles
 
-![image](.source/image.svg)
+![image](https://github.com/buyiyihu/dotfiles/blob/main/.source/image.svg)
 
 ---
 ## *This is my own dotfiles.*
@@ -17,10 +17,10 @@ I have waded through some excellent posts and repos, and created my own and am s
 Following 2 images are from [Peter Ward's blog](https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html)
 
 *from man pages*
-![Shell statup order](.source/shell-startup.png)
+![Shell statup order](https://github.com/buyiyihu/dotfiles/blob/main/.source/shell-startup.png)
 
 *actual*
-![Shell statup actual order](.source/shell-startup-actual.png)
+![Shell statup actual order](https://github.com/buyiyihu/dotfiles/blob/main/.source/shell-startup-actual.png)
 
 
 ## Refrence
