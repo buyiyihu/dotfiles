@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 16,
+    "editor.fontFamily": "MV Boli,'Georgia',Georgia",
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.fontLigatures": true,
+    "breadcrumbs.enabled": true,
+    "terminal.explorerKind": "external",
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontWeight": "500",
+    "terminal.integrated.fontWeightBold": "100",
+    "zenMode.centerLayout": false,
+    "window.zoomLevel": -1
+}

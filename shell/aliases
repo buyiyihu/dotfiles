@@ -1,0 +1,10 @@
+
+alias ...="cd ../../"
+
+alias ....="cd ../../../"
+
+alias codes="cd ~/Documents/Codeware/"
+
+alias i="ipython"
+
+alias x=exit
