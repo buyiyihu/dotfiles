@@ -7,4 +7,9 @@ alias codes="cd ~/Documents/Codeware/"
 
 alias i="ipython"
 
+# Reload the shell (i.e. invoke as a login shell)
+alias relo="exec ${SHELL} -l"
+
 alias x=exit
+
+

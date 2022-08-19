@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# https://github.com/webpro/dotfiles/blob/master/bin/is-macos
+
+if [[ "$OSTYPE" =~ ^darwin ]]; then
+  exit 0
+else
+  exit 1
+fi
+
+
+
+if test ! "$(uname)" = "Darwin"
+  then
+  exit 0
+fi

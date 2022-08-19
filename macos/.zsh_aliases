@@ -1,0 +1,4 @@
+
+
+# Trim new lines and copy to clipboard
+alias tc="tr -d '\n' | pbcopy"

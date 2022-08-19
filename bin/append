@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#https://github.com/webpro/dotfiles/blob/master/bin/append
+
+APPEND="$1"
+TARGET="$2"
+
+pcregrep -qM "$APPEND" "$TARGET" || echo "$APPEND" >> "$TARGET"
