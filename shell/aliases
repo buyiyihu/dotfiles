@@ -5,7 +5,7 @@ alias ....="cd ../../../"
 
 alias codes="cd ~/Documents/Codeware/"
 
-alias i="ipython"
+alias i="python3 -c 'import IPython; IPython.terminal.ipapp.launch_new_instance()'"
 
 # Reload the shell (i.e. invoke as a login shell)
 alias relo="exec ${SHELL} -l"

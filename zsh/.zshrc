@@ -29,7 +29,9 @@ ZSH_THEME_RANDOM_CANDIDATES=(
 
 plugins=(
     autojump
+    colorize
     git
+    man
     vscode
     zsh-syntax-highlighting
     zsh-autosuggestions
